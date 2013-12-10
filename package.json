@@ -1,0 +1,14 @@
+{
+    "name": "ayo-reader",
+    "description": "Allows simultaneous playback file with Node.js",
+    "version": "0.0.7",
+    "author": "Dhumez Sebastien",
+    "license": "MIT",
+    "main" : "src/index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Dhumez-Sebastien/ayo-reader.git"
+    },
+    "dependencies": {
+    }
+}
