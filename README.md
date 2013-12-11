@@ -11,6 +11,10 @@ Param your simultanemous files reading (must be under than 1000)
 ayoRead.Param({readLimit : 500});
 </code></pre>
 
+```
+var foo = bar;
+```
+
 And launch your reader
 
 <pre><code>// Launch the reader as with node.fs
