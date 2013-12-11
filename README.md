@@ -15,7 +15,7 @@ ayoRead.Param({readLimit : 500});
 ```
 And launch your reader
 
-```
+``` {#my-id .my-class}
 // Launch the reader as with node.fs
 ayoRead.Read(mapPath, function(err, fileData, fileURL) {
     // What you want here
