@@ -1,7 +1,7 @@
 # AyoReader
 Allows simultaneous playback file!
 
-#### <i class="icon-file"></i> Getting started
+#### ***Getting started***
 
 You'll need to have ayoReader installed.
 ```
@@ -29,5 +29,5 @@ ayoRead.Read(mapPath, function(err, fileData, fileURL) {
 
 That's all!
 
-# Author
+#### ***Author***
 * Dhumez Sébastien
