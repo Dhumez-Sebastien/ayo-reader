@@ -7,14 +7,9 @@ You'll need to have ayoReader installed.
 <pre><code>npm install ayo-reader</code></pre>
 
 Param your simultanemous files reading (must be under than 1000)
-<pre><code>// This is 100 files simultanemous by default
+```// This is 100 files simultanemous by default
 ayoRead.Param({readLimit : 500});
-</code></pre>
-
 ```
-var foo = bar;
-```
-
 And launch your reader
 
 <pre><code>// Launch the reader as with node.fs
