@@ -8,11 +8,14 @@ You'll need to have ayoReader installed.
 npm install ayo-reader
 ```
 
-Param your simultanemous files reading (must be under than 1000)
+Param your simultanemous files reading
 ```
 // This is 100 files simultanemous by default
 ayoRead.Param({readLimit : 500});
 ```
+
+> **NOTE:** The number of file reading simultanemous is 1000 max
+
 And launch your reader
 
 ```
