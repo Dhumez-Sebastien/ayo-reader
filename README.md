@@ -1,7 +1,7 @@
 # AyoReader
 Allows simultaneous playback file!
 
-# Getting Started
+#### <i class="icon-file"></i> Getting started
 
 You'll need to have ayoReader installed.
 ```
