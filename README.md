@@ -4,7 +4,9 @@ Allows simultaneous playback file!
 # Getting Started
 
 You'll need to have ayoReader installed.
-```npm install ayo-reader```
+```
+npm install ayo-reader
+```
 
 Param your simultanemous files reading (must be under than 1000)
 ```
